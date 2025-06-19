@@ -108,4 +108,7 @@ This Java Weather Report Application provides a solid introduction to using Java
 
 ##OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/34a72f27-3e88-4b90-8692-164421931cfa)
+
+
 
