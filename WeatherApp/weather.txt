@@ -1,0 +1,7 @@
+----- Weather Report for paris -----
+Temperature: 19°C
+Feels Like: 19°C
+Weather: Clear
+Humidity: 73%
+Wind Speed: 8 km/h
+-------------------------------------------
